@@ -100,7 +100,4 @@ ai-assistant-mcp/
 
 ---
 
-## License
-
-MIT License © Nandesh Kanagaraju
 
